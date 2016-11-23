@@ -6,6 +6,5 @@ OPNFV Apex
     :numbered:
     :maxdepth: 2
     
-    configguide/installerconfig.rst
-    installationprocedure
-    releasenotes
+    installationprocedure/index.rst
+    releasenotes/index.rst
